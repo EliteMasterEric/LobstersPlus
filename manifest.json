@@ -1,0 +1,11 @@
+{
+    "Id": "EliteMasterEric.LobstersPlus",
+    "PackPath": "EliteMasterEric.LobstersPlus.pck",
+    "Dependencies": ["Sulayre.Lure"],
+    "Metadata": {
+      "Name": "Lobsters Plus",
+      "Author": "EliteMasterEric",
+      "Version": "0.2.0",
+      "Description": "lobpter....."
+    }
+  }
